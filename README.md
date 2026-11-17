@@ -43,4 +43,4 @@ Here are a few production-grade projects that highlight my range across enterpri
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com) | **Email:** shuaibfariz@example.com
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/shuaib-fariz-33318823a/) | **Email:** shuaibshuaib728@gmail.com
