@@ -8,10 +8,10 @@ I am a AI software engineer specializing in scalable backend architecture, enter
 
 ## 🛠️ Tech Stack & Skills
 
-* **Languages:** Python, C#, JavaScript / TypeScript, Node.js, C++, Core Java, SQL
+* **Languages:** Python, C#, JavaScript / TypeScript, Node.js, SQL
 * **Backend & Enterprise:** ASP.NET Core MVC, FastAPI, Fastify, Entity Framework Core, Clean Architecture, Dependency Injection, REST APIs
 * **AI, ML & Robotics:** ROS 2 Humble, Gazebo 3D Simulation, Vision-Language Models (Gemini API), Hugging Face Transformers, Ollama, Vector Search (`ruvector`), OpenCV, `cv_bridge`
-* **DevOps & Tooling:** Linux (Ubuntu / WSL2), Docker, Git & GitHub Workflows, Postman, VS Code, Cursor IDE
+* **DevOps & Tooling:** Linux (Ubuntu / WSL2), Docker, Git & GitHub Workflows, Postman, VS Code
 
 ---
 
