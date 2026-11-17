@@ -35,12 +35,5 @@ Here are a few production-grade projects that highlight my range across enterpri
 * **Stack:** ROS 2 Humble, Gazebo, Python, OpenCV, `cv_bridge`, Google GenAI SDK (`gemini-1.5-flash`)
 * **Description:** A real-time VLM-driven autonomous navigation pipeline that bridges cloud multimodal intelligence with robotic middleware. Features rate-limited asynchronous subscription control, defensive JSON output parsing, and ABI-safe NumPy/`cv_bridge` segmentation fault resolutions.
 
----
-
-## 📊 GitHub Stats
-
-![Shuaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuaibshuaib728&show_icons=true&theme=radical&hide_border=true)
-
----
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/shuaib-fariz-33318823a/) | **Email:** shuaibshuaib728@gmail.com
